@@ -1,3 +1,6 @@
+// 열심히 했습니다.. 배열, 객체에 대한 이해도가 다소 향상된 것 같습니다.
+// 텍스트 wrap되는거랑 로컬스토리지 저장 기능은 추가로 수정, 구현할 예정입니다.
+
 const prevBtn = document.querySelector('.prev');
 const nextBtn = document.querySelector('.next');
 
